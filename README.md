@@ -87,7 +87,7 @@ Before you ship a real LLM Gateway, lock these down:
 
 ---
 
-## Popular LLM Gateways Compared(#-popular-llm-gateways-compared)
+## Popular LLM Gateways Compared
 
 | Gateway | Type | Best For |
 |---------|------|----------|
