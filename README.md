@@ -9,7 +9,7 @@ A practical guide to understanding, setting up, and running an LLM Gateway in pr
 - [What is an LLM Gateway?](#-what-is-an-llm-gateway)
 - [Installation & Setup](#-installation--setup)
 - [Production Best Practices](#-production-best-practices)
-- [Popular LLM Gateways Compared](#popular-llm-gateways-compared)
+- [Popular LLM Gateways Compared](#-popular-llm-gateways-compared)
 - [Wrapping Up](#-wrapping-up)
 - [Resources](#-resources)
 
@@ -87,7 +87,7 @@ Before you ship a real LLM Gateway, lock these down:
 
 ---
 
-## Popular LLM Gateways Compared
+## Popular LLM Gateways Compared(#-popular-llm-gateways-compared)
 
 | Gateway | Type | Best For |
 |---------|------|----------|
