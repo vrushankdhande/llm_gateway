@@ -6,10 +6,10 @@ A practical guide to understanding, setting up, and running an LLM Gateway in pr
 
 ## 📖 Table of Contents
 
-- [Part 1: What is an LLM Gateway?](#part-1-what-is-an-llm-gateway)
-- [Part 2: Installation & Setup](#part-2-installation--setup)
-- [Part 14: Production Best Practices](#part-14-production-best-practices)
-- [Part 15: Popular LLM Gateways Compared](#part-15-popular-llm-gateways-compared)
+- What is an LLM Gateway?](#part-1-what-is-an-llm-gateway)
+- Installation & Setup](#part-2-installation--setup)
+- Production Best Practices](#part-14-production-best-practices)
+- Popular LLM Gateways Compared](#part-15-popular-llm-gateways-compared)
 - [Wrapping Up](#-wrapping-up)
 - [Resources](#-resources)
 
